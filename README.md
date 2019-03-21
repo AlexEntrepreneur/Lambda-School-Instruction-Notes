@@ -1,1 +1,1 @@
-# Lambda-School-Instruction-Notes
+# Alex's Lambda School Notes (Full Stack Web)
