@@ -1,6 +1,5 @@
 # Alex's Lambda School Notes (Full Stack Web)
 
-## Table of Contents
 ## Front End
 ### [Introduction to User Interface and Git](1.%20Introduction%20to%20User%20Interface%20and%20Git)  
 - **[User Interface I](1.%20Introduction%20to%20User%20Interface%20and%20Git/1.%20User%20Interface%20I.md)**  
