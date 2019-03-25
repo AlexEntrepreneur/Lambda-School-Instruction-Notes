@@ -56,3 +56,9 @@
 - **[Server-side Routing](9.%20Express%20%26%20NodeJS%20(RESTful%20APIs)/2.%20Server-side%20Routing.md)**
 - **[Express Middleware](9.%20Express%20%26%20NodeJS%20(RESTful%20APIs)/3.%20Express%20Middleware.md)**
 - **[Deployment & Good Practices](9.%20Express%20%26%20NodeJS%20(RESTful%20APIs)/4.%20Deployment%20&%20Good%20Practices.md)**
+
+### [Data Persistence in Web APIs](10.%20Data%20Persistence%20in%20Web%20APIs)
+- **[Introduction to Relational Databases & SQL](10.%20Data%20Persistence%20in%20Web%20APIs/1.%20Introduction%20to%20Relational%20Databases%20&%20SQL.md)**
+- **[Inserting & Modifying Data](10.%20Data%20Persistence%20in%20Web%20APIs/2.%20Inserting%20&%20Modifying%20Data.md)**
+- **[Querying Data, Migrations & Seeding](10.%20Data%20Persistence%20in%20Web%20APIs/3.%20Querying%20Data,%20Migrations%20&%20Seeding.md)**
+- **[Introduction to Data Modelling](10.%20Data%20Persistence%20in%20Web%20APIs/4.%20Introduction%20to%20Data%20Modelling.md)**
