@@ -62,3 +62,9 @@
 - **[Inserting & Modifying Data](10.%20Data%20Persistence%20in%20Web%20APIs/2.%20Inserting%20&%20Modifying%20Data.md)**
 - **[Querying Data, Migrations & Seeding](10.%20Data%20Persistence%20in%20Web%20APIs/3.%20Querying%20Data,%20Migrations%20&%20Seeding.md)**
 - **[Introduction to Data Modelling](10.%20Data%20Persistence%20in%20Web%20APIs/4.%20Introduction%20to%20Data%20Modelling.md)**
+
+### [Authentication](11.%20Authentication)
+- **[Introduction to Authentication](11.%20Authentication/1.%20Introduction%20to%20Authentication.md)**
+- **[Sessions & Cookies (Express, Knex & SQLite)](11.%20Authentication/2.%20Sessions%20&%20Cookies.md)**
+- **[JSON Web Tokens](11.%20Authentication/3.%20JSON%20Web%20Tokens.md)**
+- **[Client Side Authentication](11.%20Authentication/4.%20Client%20Side%20Authentication.md)**
